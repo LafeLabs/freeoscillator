@@ -1,0 +1,8 @@
+<a href = "../../">../../</a>
+
+<h2>Physical Book</h2>
+
+<figure>
+<img src = "https://i.imgur.com/fErmzVs.jpg"/><!--img-->
+<figcaption>Cover of physical book</figcaption>
+</figure>

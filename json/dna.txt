@@ -1,0 +1,17 @@
+[
+"html/index.txt",
+"json/dna.txt",
+"php/dnagenerator.txt",
+"php/editor.txt",
+"php/fileloader.txt",
+"php/filesaver.txt",
+"php/main2index.txt",
+"php/replicator.txt",
+"php/scrolleditor.txt",
+"php/scrolls2index.txt",
+"php/text2php.txt",
+"scrolls/main.txt",
+"scrolls/notes.txt",
+"scrolls/replicator.txt",
+"scrolls/scroll1.txt"
+]

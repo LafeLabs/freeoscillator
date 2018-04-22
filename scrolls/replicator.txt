@@ -1,0 +1,11 @@
+<h2>Generator for Scroll Editor</h2>
+
+<p>
+The scroll editor requires that you have access to a web server with php running.  Since you can run a local web server <em>using</em> php you really need either a computer with php installed locally(and possibly no web server) or a remote server with php installed, as most servers do by default.    
+</p>
+<p>
+    The most basic replication method which anyone can use, including on a public terminal, with no money and no resources and no special code skills is the one we start with here, which involves replicating the editor on 000webhost, a free web hosting site.  
+</p>
+<p>
+    First get yourself an account, the free one, at <a href = "https://www.000webhost.com/free-website-sign-up">https://www.000webhost.com/free-website-sign-up</a>.  
+</p>

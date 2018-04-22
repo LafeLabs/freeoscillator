@@ -1,0 +1,2 @@
+<h2>Notes go here</h2>
+<p>This is a free form bulletin board for notes about the document in main.txt.</p>
