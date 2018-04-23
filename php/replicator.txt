@@ -3,7 +3,7 @@
 //this: https://raw.githubusercontent.com/LafeLabs/watershed/master/replicators/hyperscroll/php/replicator.txt
 //short version of this: https://tinyurl.com/ycgb73a8
 
-    $url = "https://raw.githubusercontent.com/LafeLabs/watershed/master/replicators/hyperscroll/json/dna.txt";
+    $url = "https://raw.githubusercontent.com/LafeLabs/freeoscillator/master/json/dna.txt";
     $dnaraw = file_get_contents($url);
     $dna =json_decode($dnaraw);
     $baseurl = explode("json",$url)[0];

@@ -10,9 +10,14 @@
 "php/scrolleditor.txt",
 "php/scrolls2index.txt",
 "php/text2php.txt",
+"scrolls/ambrosia.txt",
 "scrolls/book.txt",
+"scrolls/chaosotron.txt",
 "scrolls/main.txt",
+"scrolls/mbk.txt",
 "scrolls/notes.txt",
 "scrolls/replicator.txt",
-"scrolls/scroll1.txt"
+"scrolls/scroll1.txt",
+"scrolls/vibrotron.txt",
+"scrolls/webpage.txt"
 ]
