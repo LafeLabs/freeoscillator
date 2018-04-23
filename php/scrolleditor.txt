@@ -3,7 +3,8 @@
 <head>
     <title>Watershed Latex Hyperscroll Editor</title>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.6/ace.js" type="text/javascript" charset="utf-8"></script>
-   <script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script>
 	MathJax.Hub.Config({
 		tex2jax: {
 		inlineMath: [['$','$'], ['\\(','\\)']],

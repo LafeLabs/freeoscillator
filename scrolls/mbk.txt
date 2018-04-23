@@ -1,0 +1,17 @@
+<a href = "../../">../../</a>
+
+<h2>MBK Arduino Learning Kit</h2>
+
+<h3>Kit Bill of Materials</h3>
+<ul>
+    <li>MBK Oscillator Shield Board</li>
+    <li>Arduino UNO board</li>
+    <li>USB A/B printer cable</li>
+    <li>cheap bullet vibrator</li>
+    <li>Laptop or desktop computer(any OS)</li>
+    <li>Wire cutters/strippers</li>
+    <li>Volt meter to determine polarity of wires to vibrator(or LED)</li>
+</ul>
+
+<h3>Board Sourcing</h3>
+<p>Boards are purchased without components from <a href = "https://www.itead.cc/">itead studios</a>.</p>

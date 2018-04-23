@@ -10,6 +10,7 @@
 "php/scrolleditor.txt",
 "php/scrolls2index.txt",
 "php/text2php.txt",
+"scrolls/book.txt",
 "scrolls/main.txt",
 "scrolls/notes.txt",
 "scrolls/replicator.txt",

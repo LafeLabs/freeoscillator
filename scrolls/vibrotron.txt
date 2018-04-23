@@ -1,0 +1,5 @@
+<a href = "../../">../../</a>
+
+<h2>Vibrotron Generalized Vibration Motor</h2>
+
+<p>This technology uses the same board and Arduino as the MBK, along with some stuff you build yourself to make a generalized oscillation motor.</p>

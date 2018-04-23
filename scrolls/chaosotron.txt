@@ -1,0 +1,7 @@
+<a href = "../../">../../</a>
+
+<h2>Chaosotron Vibrational Chaos</h2>
+
+<p>
+    This technology is a tactile exploration of the behavior of the driven damped chaotic pendulum. This gives a visceral window into a totally universal aspect of Things in the World.
+    </p>
